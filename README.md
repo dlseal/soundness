@@ -8,3 +8,4 @@
  function3 
  function4 
  function5 
+ function6 
