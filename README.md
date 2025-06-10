@@ -4,3 +4,4 @@
  test4 
  test5 
  function1 
+ function2 
